@@ -13773,10 +13773,10 @@
     <Value>توافقتنامه مشتری</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Checkboxes">
-    <Value>کادر انتخاب</Value>
+    <Value>کادر انتخابی (checkboxs)</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.ColorSquares">
-    <Value>رنگ مربع</Value>
+    <Value>مربع رنگ</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Datepicker">
     <Value>انتخاب تاریخ</Value>
@@ -13785,16 +13785,16 @@
     <Value>فهرست کشویی</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.FileUpload">
-    <Value>فایل آپلود شد</Value>
+    <Value>بارگذاری فایل</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.MultilineTextbox">
     <Value>کادر متنی چند خطی</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.RadioList">
-    <Value>فهرست گزینه های علامت زنی</Value>
+    <Value>دکمه های رادیویی</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.ReadonlyCheckboxes">
-    <Value>کادر انتخاب غیر فابل تغییر</Value>
+    <Value>کادر انتخاب غیر قابل تغییر</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.TextBox">
     <Value>کادر متنی</Value>
